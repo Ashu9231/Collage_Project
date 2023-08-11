@@ -1,0 +1,22 @@
+﻿.gridimg2 {
+    height: 250px;
+    width: 100%;
+}
+
+.gridbutton {
+    color: black;
+    background-color: white;
+    width: 200px;
+    font-size: 20px;
+    padding:6px;
+    border:none;
+    border-radius:20px;
+}
+    .gridbutton:hover {
+        color: white;
+        background-color:black;
+        
+    }
+label{
+    font-size:18px;
+}
